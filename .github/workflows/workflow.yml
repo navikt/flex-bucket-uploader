@@ -31,7 +31,7 @@ jobs:
           name: VERSION.txt
           path: VERSION.txt
       - name: Gradle wrapper validation
-        uses: gradle/wrapper-validation-action@v1
+        uses: gradle/wrapper-validation-action@v1.0.3
       - name: Setup gradle dependency cache
         uses: actions/cache@v2.1.4
         with:
