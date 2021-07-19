@@ -18,7 +18,7 @@ val mockkVersion = "1.11.0"
 val nimbusdsVersion = "9.7"
 val testContainerKafkaVersion = "1.15.2"
 val googleCloudVersion = "1.113.14"
-val tikaVersion = "1.25"
+val tikaVersion = "2.0.0"
 val metadataExtractorVersion = "2.15.0"
 val junitVersion = "5.7.1"
 
